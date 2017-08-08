@@ -1,4 +1,5 @@
 # recast, _v_. [![Build Status](https://travis-ci.org/benjamn/recast.svg?branch=master)](https://travis-ci.org/benjamn/recast) [![Join the chat at https://gitter.im/benjamn/recast](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/benjamn/recast?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Greenkeeper badge](https://badges.greenkeeper.io/benjamn/recast.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Frecast.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Frecast?ref=badge_shield)
 
 1. to give (a metal object) a different form by melting it down and reshaping it.
 1. to form, fashion, or arrange again.
@@ -146,3 +147,7 @@ Is there a better way? Not always! When a task requires you to alter the semanti
 What I hope to eliminate are the brain-wasting tasks, the tasks that are bottlenecked by keystrokes, the tasks that can be expressed as operations on the _syntactic structure_ of your code. Specifically, my goal is to make it possible for you to run your code through a parser, manipulate the abstract syntax tree directly, subject only to the constraints of your imagination, and then automatically translate those modifications back into source code, without upsetting the formatting of unmodified code.
 
 And here's the best part: when you're done running a Recast script, if you're not completely satisfied with the results, blow them away with `git reset --hard`, tweak the script, and just run it again. Change your mind as many times as you like. Instead of typing yourself into a nasty case of [RSI](http://en.wikipedia.org/wiki/Repetitive_strain_injury), gaze upon your new wells of free time and ask yourself: what next?
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Frecast.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Frecast?ref=badge_large)
